@@ -26,7 +26,6 @@ const prompts = [
   [""],
   ["haha","ha","lol","hehe","funny","joke"],
   ["Meaning of invigorated"],
-  ["Please direct me to Google"]
 ]
 
 // Possible responses, in corresponding order
@@ -61,18 +60,14 @@ const replies = [
   ["Please say something :("],
   ["Haha!","Good one!"]
   ["Giving life"],
-  ["https://www.google.co.in/"],
 ]
 
 // Random for any other user input
 
 const alternative = [
-  "Same",
-  "Go on...",
-  "Bro...",
-  "Try again",
-  "I'm listening...",
-  "I don't understand :/"
+  "Sorry Bro...Search it on google",
+  "Try again or please search it on google as I am still under preperation",
+  "I don't understand please search it on google :/"
 ]
 
 // Whatever else you want :)
