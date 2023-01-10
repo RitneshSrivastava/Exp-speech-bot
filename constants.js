@@ -26,7 +26,6 @@ const prompts = [
   [""],
   ["haha","ha","lol","hehe","funny","joke"],
   ["Meaning of invigorated"],
-  ["Direct me to Google"],
 ]
 
 // Possible responses, in corresponding order
