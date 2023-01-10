@@ -61,9 +61,6 @@ const replies = [
   ["Please say something :("],
   ["Haha!","Good one!"]
   ["Giving life"],
-  ["
-   Googlehttps://www.google.co.in"
-   ],
 ]
 
 // Random for any other user input
