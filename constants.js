@@ -26,6 +26,7 @@ const prompts = [
   [""],
   ["haha","ha","lol","hehe","funny","joke"],
   ["Meaning of invigorated"],
+  ["Please direct me to Google"]
 ]
 
 // Possible responses, in corresponding order
@@ -45,7 +46,7 @@ const replies = [
   ],
   ["I am infinite"],
   ["I am just a bot", "I am a bot. What are you?"],
-  ["The one true God, JavaScript.But I am invigorated by  Ritnesh Armaan Ravi and Devraj."],
+  ["The one true God, JavaScript But I am invigorated by  Ritnesh Armaan Ravi and Devraj"],
   ["I am nameless", "I don't have a name"],
   ["I love you too", "Me too"],
   ["Have you ever felt bad?", "Glad to hear it"],
@@ -60,6 +61,7 @@ const replies = [
   ["Please say something :("],
   ["Haha!","Good one!"]
   ["Giving life"],
+  ["https://www.google.co.in/"],
 ]
 
 // Random for any other user input
